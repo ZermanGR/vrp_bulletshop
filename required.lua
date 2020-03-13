@@ -1,0 +1,15 @@
+items["wammo|WEAPON_ADVANCEDRIFLE"] = {"Advanced Rifle Ammo","A bullet is a kinetic projectile and the component of firearm ammunition that is expelled from the gun barrel during shooting.",nil,0.30}
+items["wammo|WEAPON_SPECIALCARBINE"] = {"Special Carbine Ammo","A bullet is a kinetic projectile and the component of firearm ammunition that is expelled from the gun barrel during shooting.",nil,0.30}
+items["wammo|WEAPON_BULLPUPRIFLE"] = {"Bullpup Rifle Ammo","A bullet is a kinetic projectile and the component of firearm ammunition that is expelled from the gun barrel during shooting.",nil,0.30}
+items["wammo|WEAPON_BULLPUPSHOTGUN"] = {"Bullpup Shotgun Ammo","A bullet is a kinetic projectile and the component of firearm ammunition that is expelled from the gun barrel during shooting.",nil,0.30}
+items["wammo|WEAPON_HEAVYSHOTGUN"] = {"Heavy Shotgun Ammo","A bullet is a kinetic projectile and the component of firearm ammunition that is expelled from the gun barrel during shooting.",nil,0.30}
+items["wammo|WEAPON_RPG"] = {"RPG Ammo","A bullet is a kinetic projectile and the component of firearm ammunition that is expelled from the gun barrel during shooting.",nil,0.30}
+items["wammo|WEAPON_HOMINGLAUNCHER"] = {"Homing Launcher Ammo","A bullet is a kinetic projectile and the component of firearm ammunition that is expelled from the gun barrel during shooting.",nil,0.30}
+items["wammo|WEAPON_SNIPERRIFLE"] = {"Sniper Rifle Ammo","A bullet is a kinetic projectile and the component of firearm ammunition that is expelled from the gun barrel during shooting.",nil,0.30}
+items["wammo|WEAPON_HEAVYSNIPER"] = {"Heavy Sniper Ammo","A bullet is a kinetic projectile and the component of firearm ammunition that is expelled from the gun barrel during shooting.",nil,0.30}
+items["wammo|WEAPON_MARKSMANRIFLE"] = {"Marksman Rifle Ammo","A bullet is a kinetic projectile and the component of firearm ammunition that is expelled from the gun barrel during shooting.",nil,0.30}
+items["wammo|WEAPON_PISTOL"] = {"Pistol Ammo","A bullet is a kinetic projectile and the component of firearm ammunition that is expelled from the gun barrel during shooting.",nil,0.30}
+items["wammo|WEAPON_PUMPSHOTGUN"] = {"Pump Shotgun Ammo","A bullet is a kinetic projectile and the component of firearm ammunition that is expelled from the gun barrel during shooting.",nil,0.30}
+items["wammo|WEAPON_COMBATPISTOL"] = {"Combat Pistol Ammo","A bullet is a kinetic projectile and the component of firearm ammunition that is expelled from the gun barrel during shooting.",nil,0.30}
+items["wammo|WEAPON_SMG"] = {"SMG Ammo","A bullet is a kinetic projectile and the component of firearm ammunition that is expelled from the gun barrel during shooting.",nil,0.30}
+items["wammo|WEAPON_CARBINERIFLE"] = {"Carbine Rifle Ammo","A bullet is a kinetic projectile and the component of firearm ammunition that is expelled from the gun barrel during shooting.",nil,0.30}
